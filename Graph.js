@@ -1,3 +1,4 @@
+/* část komponenty matice, která má za úkol vykreslovat jednotlivé sloupce grafu, spolu s ohraničující čárou */
 /* eslint-disable */
 import React, { Component } from 'react'
 import QmSettingsStore from '../../stores/qmSettingsStore'
