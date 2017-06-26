@@ -1,3 +1,5 @@
+/* komponenta pro možnost rychlého nastavení (kruhovitý tvar) aktivní jednotky/skupiny/směny */
+
 import React,{Component} from 'react';
 import NumpadModal from '../ModalWindow/NumpadModal';
 import ListModal from '../ModalWindow/ListModal';
